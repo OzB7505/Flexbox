@@ -6,6 +6,8 @@ body {
 .footer {
   height: 150px;
   background-color: lightgrey;
+  display:flex;
+  justify-content:space-between;
 }
 
 .title {
